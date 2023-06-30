@@ -8,7 +8,7 @@ the project titled "Data Analysis Using Python" utilizes Pandas, NumPy, Matplotl
 ![Screenshot (32)](https://github.com/Sgautam0901/Python_project_diwali-sales/assets/108050278/c1b3fd73-d89e-4012-b2c6-8255232730d7)
 ![Screenshot (33)](https://github.com/Sgautam0901/Python_project_diwali-sales/assets/108050278/c7bf5e4b-0200-4a8f-bae4-02cc5fc0284a)
 
-##Data and tables
+## Data and tables
 ![Screenshot (30)](https://github.com/Sgautam0901/Python_project_diwali-sales/assets/108050278/faa77a63-72f1-4856-9299-ef0e9d1c420e)
 
 ## Language and Libraries
