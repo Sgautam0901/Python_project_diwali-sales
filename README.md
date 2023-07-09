@@ -1,5 +1,5 @@
 
-# Python_project_diwali-sales
+# Diwali Sales Analysis using Python
 ## Overview
 The project titled "Python_project_diwali-sales" utilizes Pandas, NumPy, Matplotlib, and Seaborn to analyze datasets and derive insights. It involves importing, cleaning, preprocessing, and transforming data using Pandas. NumPy is used for efficient computations on arrays, while Matplotlib and Seaborn are employed to create visualizations that reveal patterns and relationships within the data. The project follows a structured workflow of data acquisition, cleaning, exploratory analysis, visualization, and statistical analysis.
 To kickstart the project, I began by installing the necessary libraries using pip, including numpy, pandas, seaborn, and matplotlib. These libraries form the backbone of data analysis in Python and enable efficient data manipulation, statistical calculations, and data visualization. 💻🔍
